@@ -1,0 +1,85 @@
+.navbar {
+    margin: -10px;
+    padding: 0;
+    list-style-type: none;
+    border: 1px solid #adfca4;
+    border-radius: 150px 5px;
+    width: 1263px;
+    background-color: #000000;
+}
+
+.navbar h1 {
+    background-color: rgb(255, 168, 53);
+    color: #ffffff;
+    text-shadow: 1px 1px black;
+    padding: 10px 50px;
+    border-radius: 5px 150px;
+    text-align: left;
+}
+
+.navbar a {
+    background-color: rgb(255, 168, 53);
+    color: #ffffff;
+    text-shadow: 1px 1px black;
+    padding: 50px 155px;
+    border-radius: 5px 150px;
+}
+
+.navbar a:hover {
+    box-shadow: 0 0 26px #6633FF;
+    -moz-box-shadow: 0 0 26px #6633FF;
+    -o-box-shadow: 0 0 26px #6633FF;
+    -webkit-box-shadow: 0 0 26px #6633FF;
+    text-shadow: 1px 1px #6633FF;
+}
+
+.h2 {
+    padding: 10px 100px;
+    opacity: .5;
+}
+
+.table {
+    padding: 0;
+}
+
+.table img{
+    padding: 0 10px;
+}
+
+.table p{
+    font-size: 30px;
+
+}
+.table q{
+    font-size: 20px;
+}
+
+.address {
+    padding: 50px;
+}
+
+.address p{
+    font-size: 30px;
+}
+
+.address pre{
+    font-size: 20px;
+}
+
+.div {
+    padding: 90px 50px;
+}
+
+.div h3 {
+    font-size: 35px;
+    opacity: .5;
+    text-align: center;
+}
+
+.div li{
+    font-size: 20px;
+}
+
+.div p{
+    font-size: 20px;
+}
